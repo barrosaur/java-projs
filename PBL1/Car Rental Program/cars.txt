@@ -1,0 +1,12 @@
+=====================================
+Brand: 
+Type: 
+ID: 
+Daily Rate: 0.00
+Is Available: false
+=====================================
+Brand: Toyota
+Type: Truck
+ID: TR - 929
+Daily Rate: 550.00
+Is Available: false

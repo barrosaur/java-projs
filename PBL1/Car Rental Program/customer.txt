@@ -1,0 +1,8 @@
+=====================================
+Name: barr
+Date Borrowed: 02-02-2025
+Return Date: 02-05-2025
+Car borrowed: Toyota - Truck
+Days borrowed: 5
+Is returned: false
+Fee: 2750.00
